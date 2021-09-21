@@ -1,1 +1,1 @@
-# hello-world_hello
+# hello-world_hello Продолжаю изуч гит)
